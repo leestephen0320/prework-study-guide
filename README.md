@@ -1,9 +1,6 @@
-# <Your-Project-Title>
+# Prework Study Guide Webpage
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - An online resource to study the prework section.
 - This project was built to practice the HTML, CSS, Git, and JavaScript taught during the prework.
 - This project provides a convient, student-built resource to come back to for information on HTML, CSS, Git, and JavaScript
@@ -15,11 +12,9 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Each section contains notes about their specific topic. As noted in the BLUE header, opening the Console does reveal the results of the JavaScript functions. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+Protip: Shift+Ctrl+C to open elements without using the mouse. Will need to navigate to console after, but saves mouse clicks.
 
 ## Credits
 
